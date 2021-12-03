@@ -3,7 +3,9 @@
 1. Download and Unzip Data
 2. Merge Training and Test Data Sets 
 3. Extract Measurements (mean and standard deviation)
-4. 
+4. Rename activites to be descriptive
+5. Add labels to the data set with descriptive names
+6. Create new data set with the average of each variable for each activity and subject
 
 
 ---
